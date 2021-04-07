@@ -25,4 +25,4 @@
 
 88. CSS - Making Layouts - Flexboxes:
 
-https://flexboxfroggy.com/#ru
+интерактивная игра https://flexboxfroggy.com/#ru
