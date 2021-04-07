@@ -22,6 +22,9 @@
 
 книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
 
+87. CSS - Making Layouts - CSS Grid:
+
+интерактивная игра https://cssgridgarden.com/#ru
 
 88. CSS - Making Layouts - Flexboxes:
 
