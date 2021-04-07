@@ -13,6 +13,7 @@
 Последовательные этапы изучения:
 
 1.Как работает интернет:
+
 простая и понятная статья на русском языке https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work
 
 видео #1 https://www.youtube.com/watch?v=x3c1ih2NJEg
