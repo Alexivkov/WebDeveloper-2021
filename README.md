@@ -38,3 +38,6 @@ https://www.specialist.ru/dictionary/definition/html
 
 88. CSS - Making Layouts - Flexboxes:
 интерактивная игра https://flexboxfroggy.com/#ru
+
+MUST HAVE:
+DevTools https://developer.chrome.com/docs/devtools/
