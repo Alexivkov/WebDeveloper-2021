@@ -13,10 +13,13 @@
 Последовательные этапы изучения:
 
 1.Как работает интернет:
-простая и понятная статья на русском языке https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work
-видео #1 https://www.youtube.com/watch?v=x3c1ih2NJEg
-видео #2 https://www.youtube.com/watch?v=ewrBalT_eBM
-книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
+простая и понятная статья на русском языке https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
+
+ видео #1 https://www.youtube.com/watch?v=x3c1ih2NJEg 
+ 
+ видео #2 https://www.youtube.com/watch?v=ewrBalT_eBM 
+ 
+ книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
 
 
 13. HTML - Learn the basics:
