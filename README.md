@@ -13,19 +13,17 @@
 Последовательные этапы изучения:
 
 1.Как работает интернет:
-
 простая и понятная статья на русском языке https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work
-
 видео #1 https://www.youtube.com/watch?v=x3c1ih2NJEg
-
 видео #2 https://www.youtube.com/watch?v=ewrBalT_eBM
-
 книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
 
-87. CSS - Making Layouts - CSS Grid:
 
+13. HTML - Learn the basics:
+тренажёр https://www.freecodecamp.org/learn/
+
+87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
 
 88. CSS - Making Layouts - Flexboxes:
-
 интерактивная игра https://flexboxfroggy.com/#ru
