@@ -30,6 +30,10 @@ https://www.specialist.ru/dictionary/definition/html
 
 тренажёр https://www.freecodecamp.org/learn/
 
+11.Javascript:
+
+хороший учебник, к которому можно обращаться снова и снова при возникновении вопросов - https://learn.javascript.ru/ 
+
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
 
