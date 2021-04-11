@@ -33,6 +33,7 @@ https://www.specialist.ru/dictionary/definition/html
 11.Javascript:
 
 хороший учебник, к которому можно обращаться снова и снова при возникновении вопросов - https://learn.javascript.ru/ 
+https://www.w3schools.com/js/default.asp
 
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
