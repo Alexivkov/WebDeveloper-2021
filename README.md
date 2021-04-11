@@ -21,15 +21,12 @@
  
  книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
 
-10. HTML и CSS:
+10. HTML и CSS - Learn the basics:
 
 хороший базовый курс учебного центра Специалист при МГТУ Баумана, ранее был бесплатным, когда я его проходил (увы, теперь только платно) 
 https://www.specialist.ru/dictionary/definition/html
 
 базовый курс с легкой и понятной подачей информации -  Веб-программирование от ИТМО, я сам проходил - рекомендую для новичков! https://courses.openedu.ru/courses/course-v1:ITMOUniversity+WEBDEV+fall_2018/course/
-
-
-13. HTML - Learn the basics:
 
 тренажёр https://www.freecodecamp.org/learn/
 
