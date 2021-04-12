@@ -30,7 +30,7 @@ https://www.specialist.ru/dictionary/definition/html
 
 тренажёр https://www.freecodecamp.org/learn/
 
-11.Javascript:
+11.Javascript _Syntax and Basic constructs:
 
 хороший учебник, к которому можно обращаться снова и снова при возникновении вопросов - https://learn.javascript.ru/ 
 https://www.w3schools.com/js/default.asp
