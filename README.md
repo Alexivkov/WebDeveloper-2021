@@ -40,6 +40,7 @@ https://www.w3schools.com/js/default.asp
 
 88. CSS - Making Layouts - Flexboxes:
 интерактивная игра https://flexboxfroggy.com/#ru
+описание, приемущества - https://html5.by/blog/flexbox/
 
 MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
