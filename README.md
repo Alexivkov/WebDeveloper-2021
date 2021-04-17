@@ -46,3 +46,5 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
 MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
+Полезная статья - Как думать и решать проблемы :
+https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
