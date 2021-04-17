@@ -48,3 +48,5 @@ MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
 Полезная статья - Как думать и решать проблемы :
 https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
+
+книга не про кухню, а про освоение навыков - Тимоти Феррис Шеф-повар за 4 часа
