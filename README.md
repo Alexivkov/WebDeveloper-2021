@@ -20,6 +20,12 @@
  видео #2 https://www.youtube.com/watch?v=ewrBalT_eBM 
  
  книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
+ 
+ 2. HTTP
+ 
+ https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http
+ https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/the-internet-http-and-html
+ https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
 
 10. HTML и CSS - Learn the basics:
 
