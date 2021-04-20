@@ -12,7 +12,7 @@
 
 Последовательные этапы изучения:
 
-1.Как работает интернет:
+1.1 Как работает интернет:
 простая и понятная статья на русском языке https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
 
  видео How does the INTERNET work? | ICT #2 - Lecics -  https://www.youtube.com/watch?v=x3c1ih2NJEg 
@@ -21,7 +21,7 @@
  
  книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
  
- 2. HTTP
+ 1.2 HTTP
  
  https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http
  
@@ -35,7 +35,7 @@
  
  https://www.youtube.com/watch?v=RlccXUx4LVw
 
-10. HTML и CSS - Learn the basics:
+2.1 HTML и CSS - Learn the basics:
 
 хороший базовый курс учебного центра Специалист при МГТУ Баумана, ранее был бесплатным, когда я его проходил (увы, теперь только платно) 
 https://www.specialist.ru/dictionary/definition/html
@@ -44,11 +44,15 @@ https://www.specialist.ru/dictionary/definition/html
 
 тренажёр https://www.freecodecamp.org/learn/
 
-11.Javascript _Syntax and Basic constructs:
+4.1 Javascript _Syntax and Basic constructs:
 
 хороший учебник, к которому можно обращаться снова и снова при возникновении вопросов - https://learn.javascript.ru/ 
 https://www.w3schools.com/js/default.asp
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
+4.2 Javascript - Learn DOM Manipulation
+
+https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation
 
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
