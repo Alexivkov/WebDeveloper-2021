@@ -52,7 +52,9 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
 4.2 Javascript - Learn DOM Manipulation
 
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation
+DOM manipulation - https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation
+
+The Document Object Model  - https://eloquentjavascript.net/14_dom.html
 
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
