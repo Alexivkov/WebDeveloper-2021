@@ -64,6 +64,8 @@ video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 
 практикуемся - https://javascript30.com/
 
+справочник по работе с DOM - https://plainjs.com/javascript/
+
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
 
