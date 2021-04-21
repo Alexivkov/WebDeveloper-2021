@@ -60,6 +60,8 @@ video JavaScript Event Capture, Propagation and Bubbling - https://www.youtube.c
 
 video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 
+книга Коди Линдли javascript Просветление - http://domenlightenment.com/
+
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
 
