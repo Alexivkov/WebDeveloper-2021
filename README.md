@@ -54,6 +54,8 @@ DOM manipulation - https://www.theodinproject.com/paths/foundations/courses/foun
 
 The Document Object Model  - https://eloquentjavascript.net/14_dom.html
 
+Обработка событий - https://eloquentjavascript.net/15_event.html
+
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
 
