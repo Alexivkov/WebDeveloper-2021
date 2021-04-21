@@ -56,6 +56,10 @@ The Document Object Model  - https://eloquentjavascript.net/14_dom.html
 
 Обработка событий - https://eloquentjavascript.net/15_event.html
 
+video JavaScript Event Capture, Propagation and Bubbling - https://www.youtube.com/watch?v=F1anRyL37lE
+
+video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
+
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
 
