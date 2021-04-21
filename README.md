@@ -29,8 +29,6 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  
  article MDN An overview of HTTP https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
  
- https://www.youtube.com/watch?v=C_QZtajkDf0
- 
  https://www.youtube.com/watch?v=HFt7Lm7hv1E
  
  https://www.youtube.com/watch?v=RlccXUx4LVw
