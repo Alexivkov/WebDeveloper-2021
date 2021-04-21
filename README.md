@@ -23,11 +23,11 @@
  
  1.2 HTTP
  
- https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http
+article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http
  
- https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/the-internet-http-and-html
+ video HTTP and HTML Khan academy - https://www.khanacademy.org/computing/code-org/computers-and-the-internet/internet-works/v/the-internet-http-and-html
  
- https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
+ article MDN An overview of HTTP https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview
  
  https://www.youtube.com/watch?v=C_QZtajkDf0
  
@@ -47,8 +47,8 @@ https://www.specialist.ru/dictionary/definition/html
 4.1 Javascript _Syntax and Basic constructs:
 
 хороший учебник, к которому можно обращаться снова и снова при возникновении вопросов - https://learn.javascript.ru/ 
-https://www.w3schools.com/js/default.asp
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+полезный курс - https://www.w3schools.com/js/default.asp
+MDN - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
 4.2 Javascript - Learn DOM Manipulation
 
@@ -60,7 +60,7 @@ The Document Object Model  - https://eloquentjavascript.net/14_dom.html
 интерактивная игра https://cssgridgarden.com/#ru
 
 88. CSS - Making Layouts - Flexboxes:
-89. 
+
 интерактивная игра https://flexboxfroggy.com/#ru
 описание, приемущества - https://html5.by/blog/flexbox/
 
