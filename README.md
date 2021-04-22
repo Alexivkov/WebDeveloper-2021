@@ -70,6 +70,8 @@ video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 
 видео - неплохой JavaScript DOM Course - https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s
 
+понимание DOM - https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
+
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
 
