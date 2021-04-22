@@ -50,6 +50,8 @@ MDN - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
 
 4.2 Javascript - Learn DOM Manipulation
 
+для начинающих обучалка - https://www.w3schools.com/js/js_htmldom.asp
+
 DOM manipulation - https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation
 
 The Document Object Model  - https://eloquentjavascript.net/14_dom.html
