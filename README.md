@@ -76,6 +76,7 @@ video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 
 MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
+книги - http://frontendbookshelf.ru/
 
 Не Frontend, но важно:
 Полезная статья - Как думать и решать проблемы :
