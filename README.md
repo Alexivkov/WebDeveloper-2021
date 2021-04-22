@@ -78,6 +78,8 @@ video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 88. CSS - Making Layouts - Flexboxes:
 
 интерактивная игра https://flexboxfroggy.com/#ru
+еще игра
+http://www.flexboxdefense.com/
 описание, приемущества - https://html5.by/blog/flexbox/
 
 MUST HAVE:
