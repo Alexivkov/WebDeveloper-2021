@@ -15,6 +15,8 @@
 1.1 Как работает интернет:
 простая и понятная статья на русском языке https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
 
+статья How internet work https://www.freecodecamp.org/news/how-the-internet-works/
+
  видео How does the INTERNET work? | ICT #2 - Lecics -  https://www.youtube.com/watch?v=x3c1ih2NJEg 
  
  видео A Packet's Tale. How Does the Internet Work? - World Science Festival - https://www.youtube.com/watch?v=ewrBalT_eBM 
