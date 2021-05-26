@@ -34,6 +34,11 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  https://www.youtube.com/watch?v=HFt7Lm7hv1E
  
  https://www.youtube.com/watch?v=RlccXUx4LVw
+ 
+ 1.3. How Browser work
+ 
+ How does web browsers work?  https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509
+ How Browsers Work https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/
 
 2.1 HTML и CSS - Learn the basics:
 
