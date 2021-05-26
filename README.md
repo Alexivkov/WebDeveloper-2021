@@ -42,6 +42,7 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  How Browsers Work https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/
  более глубокая информация - https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources
  немного нудно - зато в деталях видео https://www.youtube.com/watch?v=0IsQqJ7pwhw
+ сложная и большая статья + литература https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 
 2.1 HTML и CSS - Learn the basics:
 
