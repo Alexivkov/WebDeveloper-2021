@@ -43,6 +43,7 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  более глубокая информация - https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources
  немного нудно - зато в деталях видео https://www.youtube.com/watch?v=0IsQqJ7pwhw
  сложная и большая статья + литература https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+ видео лучше смотреть после изучения информации выше https://www.youtube.com/watch?v=6aNT-ZmY9rU
 
 2.1 HTML и CSS - Learn the basics:
 
