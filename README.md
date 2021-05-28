@@ -35,6 +35,8 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  
  https://www.youtube.com/watch?v=RlccXUx4LVw
  
+ книга (только на английском) Stephen Ludin & Javier Garza Learning HTTP/2: A Practical Guide for Beginners
+ 
  1.3. How Browser work
  
  хорошая статья - Как работает браузер - https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
