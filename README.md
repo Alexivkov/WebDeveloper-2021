@@ -55,8 +55,11 @@ https://www.specialist.ru/dictionary/definition/html
 базовый курс с легкой и понятной подачей информации -  Веб-программирование от ИТМО, я сам проходил - рекомендую для новичков! https://courses.openedu.ru/courses/course-v1:ITMOUniversity+WEBDEV+fall_2018/course/
 
 тренажёр https://www.freecodecamp.org/learn/
+3. CSS
+3.5 Responsive and Media Queries
+video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
-4.1 Javascript _Syntax and Basic constructs:
+5.1 Javascript _Syntax and Basic constructs:
 
 хороший учебник, к которому можно обращаться снова и снова при возникновении вопросов - https://learn.javascript.ru/ 
 полезный курс - https://www.w3schools.com/js/default.asp
