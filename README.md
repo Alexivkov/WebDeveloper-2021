@@ -68,11 +68,9 @@ https://www.specialist.ru/dictionary/definition/html
 3.5 Responsive Design and Media Queries
 video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
-3.5.
-Prototype - https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
 
 
-5.1 Javascript _Syntax and Basic constructs:
+4.1 Javascript _Syntax and Basic constructs:
 
 хороший учебник, к которому можно обращаться снова и снова при возникновении вопросов - https://learn.javascript.ru/ 
 полезный курс - https://www.w3schools.com/js/default.asp
@@ -101,6 +99,10 @@ video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 видео - неплохой JavaScript DOM Course - https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s
 
 понимание DOM - https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
+
+4.5.
+Prototype - https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
+
 
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
