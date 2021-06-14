@@ -51,7 +51,9 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  modern Chrome - https://habr.com/ru/post/526696/
  Good simple course - Udacity - Website Performance Optimization
  
- 1.4. DNS
+ 1.4. DNS and how it works?
+ 
+ 
 
 2.1 HTML и CSS - Learn the basics:
 
