@@ -106,7 +106,7 @@ video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 Prototype:
 https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
 https://learn.javascript.ru/function-prototype
-
+https://learn.javascript.ru/prototype-inheritance
 
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
