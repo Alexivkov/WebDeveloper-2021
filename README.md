@@ -68,6 +68,10 @@ https://www.specialist.ru/dictionary/definition/html
 3.5 Responsive Design and Media Queries
 video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
+3.5.
+Prototype - https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
+
+
 5.1 Javascript _Syntax and Basic constructs:
 
 хороший учебник, к которому можно обращаться снова и снова при возникновении вопросов - https://learn.javascript.ru/ 
