@@ -12,20 +12,20 @@
 
 Последовательные этапы изучения:
 
-1.1 How does the internet works?
+1.1 How does the internet work?
 
 
-простая и понятная статья на русском языке https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
+simple article(rus) - https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
 
-статья How internet work https://www.freecodecamp.org/news/how-the-internet-works/
+article - How internet work https://www.freecodecamp.org/news/how-the-internet-works/
 
- видео How does the INTERNET work? | ICT #2 - Lecics -  https://www.youtube.com/watch?v=x3c1ih2NJEg 
+ How does the INTERNET work? | ICT #2 - Lecics -  https://www.youtube.com/watch?v=x3c1ih2NJEg 
  
- видео A Packet's Tale. How Does the Internet Work? - World Science Festival - https://www.youtube.com/watch?v=ewrBalT_eBM 
+ A Packet's Tale. How Does the Internet Work? - World Science Festival - https://www.youtube.com/watch?v=ewrBalT_eBM 
  
  книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
  
- 1.2 HTTP
+ 1.2 What is HTTP ?
  
 article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http
  
@@ -41,15 +41,17 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  
  1.3. How Browser work
  
- хорошая статья - Как работает браузер - https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
+ good article - https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
  How does web browsers work?  https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509
  How Browsers Work https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/
- более глубокая информация - https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources
- немного нудно - зато в деталях видео https://www.youtube.com/watch?v=0IsQqJ7pwhw
- сложная и большая статья + литература https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
- видео лучше смотреть после изучения информации выше https://www.youtube.com/watch?v=6aNT-ZmY9rU
- Устройство современного веб-браузера Chrome - https://habr.com/ru/post/526696/
- simple course - Udacity - Website Performance Optimization
+ more deep information - https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources
+ in details-  https://www.youtube.com/watch?v=0IsQqJ7pwhw
+ hard + references https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+ video after reading https://www.youtube.com/watch?v=6aNT-ZmY9rU
+ modern Chrome - https://habr.com/ru/post/526696/
+ Good simple course - Udacity - Website Performance Optimization
+ 
+ 1.4. DNS
 
 2.1 HTML и CSS - Learn the basics:
 
