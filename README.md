@@ -70,7 +70,7 @@ video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/w
 
 4.JavaScript
 
-book - You don't know JS
+!!!НЕ ПРОЧИТАНА!!! book - You don't know JS 
 
 4.1 Javascript _Syntax and Basic constructs:
 
