@@ -101,7 +101,9 @@ video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 понимание DOM - https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
 
 4.5.
-Prototype - https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
+Prototype:
+https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
+https://learn.javascript.ru/function-prototype
 
 
 87. CSS - Making Layouts - CSS Grid:
