@@ -12,7 +12,9 @@
 
 Последовательные этапы изучения:
 
-1.1 Как работает интернет:
+1.1 How does the internet works?
+
+
 простая и понятная статья на русском языке https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
 
 статья How internet work https://www.freecodecamp.org/news/how-the-internet-works/
