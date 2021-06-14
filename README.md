@@ -68,7 +68,9 @@ https://www.specialist.ru/dictionary/definition/html
 3.5 Responsive Design and Media Queries
 video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
+4.JavaScript
 
+book - You don't know JS
 
 4.1 Javascript _Syntax and Basic constructs:
 
