@@ -107,6 +107,7 @@ Prototype:
 https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
 https://learn.javascript.ru/function-prototype
 https://learn.javascript.ru/prototype-inheritance
+best explanation - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
 
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
