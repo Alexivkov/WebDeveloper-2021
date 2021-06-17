@@ -57,6 +57,7 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  DNS protocol https://www.youtube.com/watch?v=yAlm-jTneeY
  DNS record types - https://www.youtube.com/watch?v=mvMYV0Hfig4
  DNS introdution https://www.youtube.com/watch?v=YmYVAxUhl0o
+ Интуит - https://www.youtube.com/watch?v=IKXzWNT2RTo
  
  
 
