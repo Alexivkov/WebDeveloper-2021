@@ -71,6 +71,7 @@ video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/w
 4.JavaScript
 
 !!!НЕ ПРОЧИТАНА!!! book - You don't know JS 
+!!!НЕ ПРОЧИТАНА!!! Николас С. Закас "Принципы ООП в Javascript"
 
 4.1 Javascript _Syntax and Basic constructs:
 
