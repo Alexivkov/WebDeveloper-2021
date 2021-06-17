@@ -52,6 +52,7 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  Good simple course - Udacity - Website Performance Optimization
  
  1.4. DNS and how it works?
+ reserve order tree - .com .google .www
  DN system - https://www.youtube.com/watch?v=B0J0c0KLtbQ
  DNS protocol https://www.youtube.com/watch?v=yAlm-jTneeY
  DNS record types - https://www.youtube.com/watch?v=mvMYV0Hfig4
