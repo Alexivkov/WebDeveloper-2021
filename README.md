@@ -53,6 +53,7 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  
  1.4. DNS and how it works?
  https://www.youtube.com/watch?v=B0J0c0KLtbQ
+ https://www.youtube.com/watch?v=yAlm-jTneeY
  
  
 
