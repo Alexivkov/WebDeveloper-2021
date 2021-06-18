@@ -63,7 +63,10 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  
  https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
  
+ 1.6 Hosting
  
+ 
+https://frontendmasters.com/books/front-end-handbook/2018/learning/hosting.html
 
 2.1 HTML и CSS - Learn the basics:
 
