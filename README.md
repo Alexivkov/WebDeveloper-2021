@@ -59,6 +59,10 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  DNS introdution https://www.youtube.com/watch?v=YmYVAxUhl0o
  Интуит - https://www.youtube.com/watch?v=IKXzWNT2RTo
  
+ 1.5. What is Domain name?
+ 
+ https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
+ 
  
 
 2.1 HTML и CSS - Learn the basics:
