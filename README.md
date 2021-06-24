@@ -81,6 +81,7 @@ Basic easy course with understandable presentation of information - Web programm
 
 https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
 https://www.w3schools.com/html/
+https://html5book.ru/html-html5/
 
 2.2 Form and Validations
 
