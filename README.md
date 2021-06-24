@@ -82,6 +82,8 @@ Basic easy course with understandable presentation of information - Web programm
 https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
 https://www.w3schools.com/html/
 
+2.2 Form Validation
+https://medium.com/russian/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F-%D1%84%D0%BE%D1%80%D0%BC-%D0%BD%D0%B0-html-%D0%B8-css-c34c982d42a0#.885w45m0k
 
 3. CSS
 3.5 Responsive Design and Media Queries
