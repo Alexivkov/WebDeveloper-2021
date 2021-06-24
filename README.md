@@ -1,16 +1,18 @@
 # WebDeveloper-2021
 
-Путь по технологиям, чтобы стать Frontend веб-разработчиком.
-Если не знаешь, что изучать дальше, посмотри на карту и она тебя направит. 
-Обучение никогда не закончится, багаж знаний важно пополнять до конца жизни!
+This is my way to became a Frontend Developer.
+"Если не знаешь, что изучать дальше, посмотри на карту и она тебя направит. 
+Обучение никогда не закончится, багаж знаний важно пополнять до конца жизни!"
 
-Зеленые CheckMarcks - это альтернативные технологии (1 OR 2 OR 3)
+Green CheckMarcks - alternative technologies (1 OR 2 OR 3)
 
-первоисточник - https://roadmap.sh/frontend (благодарю Камран Ахмед <kamranahmed.se@gmail.com>)
+original source - https://roadmap.sh/frontend (thanks <kamranahmed.se@gmail.com>)
 
 ![frontend](https://user-images.githubusercontent.com/34003808/113473562-aa140f00-9483-11eb-8adf-c942de35b5d4.png)
 
-Последовательные этапы изучения:
+Sequential stages of learning:
+
+1. INTERNET
 
 1.1 How does the internet work?
 
