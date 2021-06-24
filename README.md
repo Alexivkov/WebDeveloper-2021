@@ -86,6 +86,8 @@ book Mark Pilgrim - Dive into HTML5 - http://htmlbook.ru/diveintohtml5
 
 2.2 Semantic HTML
 
+https://css-tricks.com/how-to-section-your-html/
+
 https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
 
 Cheat Sheet - https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
