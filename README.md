@@ -70,14 +70,18 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  
 https://frontendmasters.com/books/front-end-handbook/2018/learning/hosting.html
 
-2.1 HTML и CSS - Learn the basics:
+2.HTML
 
-хороший базовый курс учебного центра Специалист при МГТУ Баумана, ранее был бесплатным, когда я его проходил (увы, теперь только платно) 
+2.1 HTML - Learn the basics:
+
+Good basic course of the training center Specialist at MSTU Bauman, was previously free when I took it (now only paid) 
 https://www.specialist.ru/dictionary/definition/html
 
-базовый курс с легкой и понятной подачей информации -  Веб-программирование от ИТМО, я сам проходил - рекомендую для новичков! https://courses.openedu.ru/courses/course-v1:ITMOUniversity+WEBDEV+fall_2018/course/
+Basic easy course with understandable presentation of information - Web programming from ITMO, I recommend it for beginners! https://courses.openedu.ru/courses/course-v1:ITMOUniversity+WEBDEV+fall_2018/course/
 
-тренажёр https://www.freecodecamp.org/learn/
+https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
+https://www.w3schools.com/html/
+
 
 3. CSS
 3.5 Responsive Design and Media Queries
