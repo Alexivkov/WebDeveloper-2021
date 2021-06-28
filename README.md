@@ -98,6 +98,8 @@ https://medium.com/russian/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8
 
 https://css-tricks.com/form-validation-part-1-constraint-validation-html/
 
+https://developer.mozilla.org/ru/docs/Learn/Forms/Form_validation
+
 book Adam Silver Form Design Patterns
 
 3. CSS
