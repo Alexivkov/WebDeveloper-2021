@@ -106,6 +106,8 @@ book Adam Silver Form Design Patterns
 3.5 Responsive Design and Media Queries
 video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
+
+Css position https://www.freecodecamp.org/news/css-position-property-explained/
 4.JavaScript
 
 !!!НЕ ПРОЧИТАНА!!! book - You don't know JS 
