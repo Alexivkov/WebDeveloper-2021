@@ -25,7 +25,7 @@ article - How internet work https://www.freecodecamp.org/news/how-the-internet-w
  
  A Packet's Tale. How Does the Internet Work? - World Science Festival - https://www.youtube.com/watch?v=ewrBalT_eBM 
  
- книга Эндрю Блам - Сеть. Как устроен и как работает Интернет (2014)
+ Book Andew Blam - Tubes: A Journey to the center of the internet (2014)
  
  1.2 What is HTTP ?
  
@@ -112,6 +112,8 @@ Css position https://www.freecodecamp.org/news/css-position-property-explained/
 
 !!!НЕ ПРОЧИТАНА!!! book - You don't know JS 
 !!!НЕ ПРОЧИТАНА!!! Николас С. Закас "Принципы ООП в Javascript"
+
+A book by Addy Osmani - Learning JavaScript Design Patterns -  https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 4.1 Javascript _Syntax and Basic constructs:
 
