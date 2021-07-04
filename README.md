@@ -150,6 +150,11 @@ https://learn.javascript.ru/function-prototype
 https://learn.javascript.ru/prototype-inheritance
 best explanation - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
 
+Scope:
+
+https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope
+
+
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
 
