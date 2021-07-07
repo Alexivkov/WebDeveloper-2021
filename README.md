@@ -102,6 +102,10 @@ https://developer.mozilla.org/ru/docs/Learn/Forms/Form_validation
 
 book Adam Silver Form Design Patterns
 
+2.4 Convencions and best practicies
+
+https://www.w3schools.com/html/html5_syntax.asp
+
 3. CSS
 3.5 Responsive Design and Media Queries
 video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
