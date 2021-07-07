@@ -102,7 +102,7 @@ https://developer.mozilla.org/ru/docs/Learn/Forms/Form_validation
 
 book Adam Silver Form Design Patterns
 
-2.4 Convencions and best practicies
+2.4 Conventions and best practices
 
 https://www.w3schools.com/html/html5_syntax.asp
 
