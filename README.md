@@ -106,7 +106,7 @@ book Adam Silver Form Design Patterns
 
 https://www.w3schools.com/html/html5_syntax.asp
 
-2.5 Accessability
+2.5 Accessibility
 
 https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
