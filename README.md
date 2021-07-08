@@ -106,6 +106,12 @@ book Adam Silver Form Design Patterns
 
 https://www.w3schools.com/html/html5_syntax.asp
 
+2.5 Accessability
+
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
+
+
+
 3. CSS
 3.5 Responsive Design and Media Queries
 video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
