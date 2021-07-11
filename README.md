@@ -52,6 +52,7 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  video after reading https://www.youtube.com/watch?v=6aNT-ZmY9rU
  modern Chrome - https://habr.com/ru/post/526696/
  Good simple course - Udacity - Website Performance Optimization
+ RS School 2020Q3. How browser works - https://www.youtube.com/watch?v=gdriDw-ciH8
  
  1.4. DNS and how it works?
  reserve order tree - .com .google .www
