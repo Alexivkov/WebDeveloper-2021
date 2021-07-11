@@ -74,6 +74,8 @@ https://frontendmasters.com/books/front-end-handbook/2018/learning/hosting.html
 
 2.1 HTML - Learn the basics:
 
+https://ru.code-basics.com/languages/html
+
 Good basic course of the training center Specialist at MSTU Bauman, was previously free when I took it (now only paid) 
 https://www.specialist.ru/dictionary/definition/html
 
