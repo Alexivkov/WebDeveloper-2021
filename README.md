@@ -44,14 +44,23 @@ article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/c
  1.3. How Browser work
  
  good article - https://developer.mozilla.org/en-US/docs/Web/Performance/How_browsers_work
+ 
  How does web browsers work?  https://medium.com/@monica1109/how-does-web-browsers-work-c95ad628a509
+ 
  How Browsers Work https://www.freecodecamp.org/news/web-application-security-understanding-the-browser-5305ed2f1dac/
+ 
  more deep information - https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Resources
+ 
  in details-  https://www.youtube.com/watch?v=0IsQqJ7pwhw
+ 
  hard + references https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+ 
  video after reading https://www.youtube.com/watch?v=6aNT-ZmY9rU
+ 
  modern Chrome - https://habr.com/ru/post/526696/
+ 
  Good simple course - Udacity - Website Performance Optimization
+ 
  RS School 2020Q3. How browser works - https://www.youtube.com/watch?v=gdriDw-ciH8
  
  1.4. DNS and how it works?
