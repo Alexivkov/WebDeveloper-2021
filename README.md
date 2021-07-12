@@ -178,6 +178,11 @@ Scope:
 
 https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope
 
+5. Version Control System
+
+5.1 Git
+
+whole course - https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&index=1
 
 87. CSS - Making Layouts - CSS Grid:
 интерактивная игра https://cssgridgarden.com/#ru
