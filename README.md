@@ -79,7 +79,7 @@ Sequential stages of learning:
  
    - https://frontendmasters.com/books/front-end-handbook/2018/learning/hosting.html
 
-**2.HTML**
+### 2.HTML
 
 - *2.1 HTML - Learn the basics:*
 
@@ -121,13 +121,12 @@ https://www.specialist.ru/dictionary/definition/html
 
   - https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
-**3. CSS**
+### 3. CSS
 
 - *3.2 Making Layouts* 
   - *Positioning* https://www.freecodecamp.org/news/css-position-property-explained/
   - *CSS Grid:*
-
-game https://cssgridgarden.com/#ru
+    - game https://cssgridgarden.com/#ru
 
   - *Flexboxes:*
 
@@ -140,7 +139,7 @@ description and advantages - https://html5.by/blog/flexbox/
 
   
 
-**4.JavaScript**
+### 4.JavaScript
 
 - !!!НЕ ПРОЧИТАНА!!! book - You don't know JS 
 - !!!НЕ ПРОЧИТАНА!!! Николас С. Закас "Принципы ООП в Javascript"
@@ -186,7 +185,7 @@ description and advantages - https://html5.by/blog/flexbox/
 
 - https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope
 
-**5. Version Control System**
+### 5. Version Control System
 
 - *5.1 Git*
 
@@ -194,7 +193,7 @@ description and advantages - https://html5.by/blog/flexbox/
 
 
 
-MUST HAVE:
+### MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
 книги - http://frontendbookshelf.ru/
 
