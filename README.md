@@ -127,12 +127,10 @@ https://www.specialist.ru/dictionary/definition/html
   - *Positioning* https://www.freecodecamp.org/news/css-position-property-explained/
   - *CSS Grid:*
     - game https://cssgridgarden.com/#ru
-
   - *Flexboxes:*
-
-game https://flexboxfroggy.com/#ru
-game http://www.flexboxdefense.com/
-description and advantages - https://html5.by/blog/flexbox/
+    - game https://flexboxfroggy.com/#ru
+    - game http://www.flexboxdefense.com/
+    - description and advantages - https://html5.by/blog/flexbox/
 
 - *3.5 Responsive Design and Media Queries*
   - video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
@@ -181,7 +179,7 @@ description and advantages - https://html5.by/blog/flexbox/
   - https://learn.javascript.ru/prototype-inheritance
   - best explanation - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
 
-*Scope:*
+- *Scope:*
 
 - https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope
 
