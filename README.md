@@ -139,9 +139,9 @@ https://www.specialist.ru/dictionary/definition/html
 
 ### 4.JavaScript
 
-- !!!НЕ ПРОЧИТАНА!!! book - You don't know JS 
-- !!!НЕ ПРОЧИТАНА!!! Николас С. Закас "Принципы ООП в Javascript"
-- A book by Addy Osmani - Learning JavaScript Design Patterns -  https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+- [ ] !!!НЕ ПРОЧИТАНА!!! book - You don't know JS 
+- [ ] !!!НЕ ПРОЧИТАНА!!! Николас С. Закас "Принципы ООП в Javascript"
+- [ ] A book by Addy Osmani - Learning JavaScript Design Patterns -  https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 - *4.1 Javascript _Syntax and Basic constructs:*
 
