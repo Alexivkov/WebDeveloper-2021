@@ -13,7 +13,7 @@ original source - https://roadmap.sh/frontend (thanks <kamranahmed.se@gmail.com>
 
 Sequential stages of learning:
 
-## 1. INTERNET
+### 1. INTERNET
 
 - *1.1 How does the internet work?*
 
