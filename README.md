@@ -15,19 +15,19 @@ Sequential stages of learning:
 
 **1. INTERNET**
 
-*1.1 How does the internet work?*
+- *1.1 How does the internet work?*
 
-- simple article(rus) - https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
+  - simple article(rus) - https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
 
-- article - How internet work https://www.freecodecamp.org/news/how-the-internet-works/
+  - article - How internet work https://www.freecodecamp.org/news/how-the-internet-works/
 
- - How does the INTERNET work? | ICT #2 - Lecics -  https://www.youtube.com/watch?v=x3c1ih2NJEg 
+   - How does the INTERNET work? | ICT #2 - Lecics -  https://www.youtube.com/watch?v=x3c1ih2NJEg 
  
- - A Packet's Tale. How Does the Internet Work? - World Science Festival - https://www.youtube.com/watch?v=ewrBalT_eBM 
+   - A Packet's Tale. How Does the Internet Work? - World Science Festival - https://www.youtube.com/watch?v=ewrBalT_eBM 
  
- - Book Andew Blam - Tubes: A Journey to the center of the internet (2014)
+   - Book Andew Blam - Tubes: A Journey to the center of the internet (2014)
  
-*1.2 What is HTTP?*
+- *1.2 What is HTTP?*
  
 - article Hypertext Transfer Protocol Khan Academy - https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:web-protocols/a/hypertext-transfer-protocol-http
  
