@@ -124,9 +124,10 @@ https://www.specialist.ru/dictionary/definition/html
 **3. CSS**
 
 - *3.2 Making Layouts* 
-
+  - *Positioning* https://www.freecodecamp.org/news/css-position-property-explained/
   - *CSS Grid:*
-интерактивная игра https://cssgridgarden.com/#ru
+
+game https://cssgridgarden.com/#ru
 
   - *Flexboxes:*
 
@@ -137,7 +138,7 @@ description and advantages - https://html5.by/blog/flexbox/
 - *3.5 Responsive Design and Media Queries*
   - video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
-  - Css position https://www.freecodecamp.org/news/css-position-property-explained/
+  
 
 **4.JavaScript**
 
