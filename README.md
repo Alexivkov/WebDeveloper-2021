@@ -12,9 +12,9 @@ original source - https://roadmap.sh/frontend (thanks <kamranahmed.se@gmail.com>
 ![frontend](https://user-images.githubusercontent.com/34003808/113473562-aa140f00-9483-11eb-8adf-c942de35b5d4.png)
 
 Sequential stages of learning:
-1. INTERNET
+**1. INTERNET**
 
-1.1 How does the internet work?
+*1.1 How does the internet work?*
 
 
 simple article(rus) - https://developer.mozilla.org/ru/docs/Learn/Common_questions/How_does_the_Internet_work 
