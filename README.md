@@ -124,20 +124,22 @@ https://www.specialist.ru/dictionary/definition/html
 
 
 **3. CSS**
+
+*3.2 Making Layouts* 
+
+*CSS Grid:*
+интерактивная игра https://cssgridgarden.com/#ru
+
+*Flexboxes:*
+
+game https://flexboxfroggy.com/#ru
+game http://www.flexboxdefense.com/
+description and advantages - https://html5.by/blog/flexbox/
+
 *3.5 Responsive Design and Media Queries*
 - video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
 - Css position https://www.freecodecamp.org/news/css-position-property-explained/
-
-377. CSS - Making Layouts - CSS Grid:
-интерактивная игра https://cssgridgarden.com/#ru
-
-388. CSS - Making Layouts - Flexboxes:
-
-интерактивная игра https://flexboxfroggy.com/#ru
-еще игра
-http://www.flexboxdefense.com/
-описание, приемущества - https://html5.by/blog/flexbox/
 
 **4.JavaScript**
 
