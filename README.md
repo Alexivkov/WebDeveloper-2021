@@ -179,9 +179,9 @@ https://www.specialist.ru/dictionary/definition/html
   - https://learn.javascript.ru/prototype-inheritance
   - best explanation - https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co
 
-- *Scope:*
+- *4.5 Scope:*
 
-- https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope
+  - https://ultimatecourses.com/blog/everything-you-wanted-to-know-about-javascript-scope
 
 ### 5. Version Control System
 
