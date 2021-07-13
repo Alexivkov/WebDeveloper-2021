@@ -189,7 +189,7 @@ https://www.specialist.ru/dictionary/definition/html
 
 - *5.1 Git*
 
-  - whole course - https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&index=1
+  - learnJS Git course - https://www.youtube.com/watch?v=W4hoc24K93E&list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb&index=1
 
 
 
