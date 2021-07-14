@@ -122,7 +122,8 @@ https://www.specialist.ru/dictionary/definition/html
   - https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
 
 ### 3. CSS
-- pretty game https://flukeout.github.io/
+- *3.1 CSS Basic*
+  - pretty selectors game https://flukeout.github.io/
 - *3.2 Making Layouts* 
   - *Positioning* https://www.freecodecamp.org/news/css-position-property-explained/
   - *CSS Grid:*
