@@ -126,14 +126,14 @@ https://www.specialist.ru/dictionary/definition/html
   - pretty selectors game https://flukeout.github.io/
 - *3.2 Making Layouts* 
   - *Positioning* https://www.freecodecamp.org/news/css-position-property-explained/
-  - *CSS Grid:*
+  - *Grid:*
     - game https://cssgridgarden.com/#ru
   - *Flexboxes:*
     - game https://flexboxfroggy.com/#ru
     - game http://www.flexboxdefense.com/
     - description and advantages - https://html5.by/blog/flexbox/
 
-- *3.5 Responsive Design and Media Queries*
+- *3.3 Responsive Design and Media Queries*
   - video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
   
