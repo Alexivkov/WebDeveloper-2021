@@ -135,6 +135,7 @@ https://www.specialist.ru/dictionary/definition/html
     - description and advantages - https://html5.by/blog/flexbox/
 
 - *3.3 Responsive Design and Media Queries*
+  - https://www.w3.org/TR/css3-mediaqueries/
   - video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
 
   
