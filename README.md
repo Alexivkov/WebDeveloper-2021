@@ -96,13 +96,10 @@ https://www.specialist.ru/dictionary/definition/html
   - book Mark Pilgrim - Dive into HTML5 - http://htmlbook.ru/diveintohtml5
 
 - *2.2 Semantic HTML*
-
   - https://css-tricks.com/how-to-section-your-html/
-
   - https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
-
   - Cheat Sheet - https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
-
+  - https://www.youtube.com/watch?v=bQRmGxhARhc
 - *2.3 Form and Validations*
 
   - https://medium.com/russian/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F-%D1%84%D0%BE%D1%80%D0%BC-%D0%BD%D0%B0-html-%D0%B8-css-c34c982d42a0#.885w45m0k
