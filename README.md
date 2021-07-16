@@ -130,9 +130,11 @@ https://www.specialist.ru/dictionary/definition/html
   - *Grid:*
     - game https://cssgridgarden.com/#ru
   - *Flexboxes:*
+    - Cheetsheet Flex https://habr.com/ru/post/313938/
     - game https://flexboxfroggy.com/#ru
     - game http://www.flexboxdefense.com/
     - description and advantages - https://html5.by/blog/flexbox/
+    
 
 - *3.3 Responsive Design and Media Queries*
   - https://www.w3.org/TR/css3-mediaqueries/
