@@ -150,6 +150,7 @@ https://www.specialist.ru/dictionary/definition/html
   - best - https://learn.javascript.ru/ 
   - useful - https://www.w3schools.com/js/default.asp
   - MDN - https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+  - basics https://ru.code-basics.com/languages/javascript
 
 - *4.2 Javascript - Learn DOM Manipulation*
 
