@@ -154,27 +154,29 @@ https://www.specialist.ru/dictionary/definition/html
 
 - *4.2 Javascript - Learn DOM Manipulation*
 
-  - для начинающих обучалка - https://www.w3schools.com/js/js_htmldom.asp
+  - https://learn.javascript.ru/document
+
+  - for beginners - https://www.w3schools.com/js/js_htmldom.asp
 
   - DOM manipulation - https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/dom-manipulation
 
   - The Document Object Model  - https://eloquentjavascript.net/14_dom.html
 
-  - Обработка событий - https://eloquentjavascript.net/15_event.html
+  - event listener - https://eloquentjavascript.net/15_event.html
 
   - video JavaScript Event Capture, Propagation and Bubbling - https://www.youtube.com/watch?v=F1anRyL37lE
 
   - video Make a JavaScript Drum Kit - https://www.youtube.com/watch?v=VuN8qwZoego
 
-  - книга Коди Линдли javascript Просветление - http://domenlightenment.com/
+  - book Cody Lingly javascript - http://domenlightenment.com/
 
-  - практикуемся - https://javascript30.com/
+  - practice - https://javascript30.com/
 
-  - справочник по работе с DOM - https://plainjs.com/javascript/
+  - https://plainjs.com/javascript/
 
-  - видео - неплохой JavaScript DOM Course - https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s
+  - JavaScript DOM Course - https://www.youtube.com/watch?v=0ik6X4DJKCc&list=PLillGF-RfqbYE6Ik_EuXA2iZFcE082B3s
 
-  - понимание DOM - https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
+  - understanding DOM - https://www.digitalocean.com/community/tutorial_series/understanding-the-dom-document-object-model
 
 - *4.5 Prototype:*
   - https://web.archive.org/web/20200513181548/https://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
