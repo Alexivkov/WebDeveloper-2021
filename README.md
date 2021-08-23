@@ -208,4 +208,5 @@ DevTools https://developer.chrome.com/docs/devtools/
 Полезная статья - Как думать и решать проблемы :
 https://www.freecodecamp.org/news/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2/
 
-
+Шпаргалка для собеседования:
+https://habr.com/ru/company/mailru/blog/350326/
