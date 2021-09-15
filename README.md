@@ -204,6 +204,7 @@ https://www.specialist.ru/dictionary/definition/html
 
 ### MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
+
 книги - http://frontendbookshelf.ru/
 
 Не Frontend, но важно:
