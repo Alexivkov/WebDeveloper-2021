@@ -26,6 +26,8 @@ original source - https://roadmap.sh/frontend (thanks <kamranahmed.se@gmail.com>
    - A Packet's Tale. How Does the Internet Work? - World Science Festival - https://www.youtube.com/watch?v=ewrBalT_eBM 
  
    - Book Andew Blam - Tubes: A Journey to the center of the internet (2014)
+   
+   - introdution https://webref.ru/course/introduction (RU) || https://marksheet.io/introduction.html (ENG)
  
 - *1.2 What is HTTP?*
  
