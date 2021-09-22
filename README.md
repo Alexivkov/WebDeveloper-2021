@@ -135,6 +135,8 @@ https://www.specialist.ru/dictionary/definition/html
     - game https://flexboxfroggy.com/#ru
     - game http://www.flexboxdefense.com/
     - description and advantages - https://html5.by/blog/flexbox/
+    - https://webref.ru/layout/flexbox-tutorial
+    - https://habr.com/ru/post/467049/
     
 
 - *3.3 Responsive Design and Media Queries*
