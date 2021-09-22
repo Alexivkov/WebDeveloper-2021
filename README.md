@@ -131,7 +131,8 @@ https://www.specialist.ru/dictionary/definition/html
   - *Grid:*
     - game https://cssgridgarden.com/#ru
   - *Flexboxes:*
-    - Cheetsheet Flex https://habr.com/ru/post/313938/
+    - Cheetsheet #1 https://habr.com/ru/post/313938/
+    - Cheetsheet #2 https://www.evernote.com/shard/s368/client/snv?noteGuid=4346cdea-9386-4738-bfff-f9faafc05e94&noteKey=fb6ec76312f7111b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs368%2Fsh%2F4346cdea-9386-4738-bfff-f9faafc05e94%2Ffb6ec76312f7111b&title=CSS%253A%2BFlexbox%2B%2528htmlacademy.ru%2529
     - game https://flexboxfroggy.com/#ru
     - game http://www.flexboxdefense.com/
     - description and advantages - https://html5.by/blog/flexbox/
