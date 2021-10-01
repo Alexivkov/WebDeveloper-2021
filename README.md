@@ -144,6 +144,7 @@ https://www.specialist.ru/dictionary/definition/html
 - *3.3 Responsive Design and Media Queries*
   - https://www.w3.org/TR/css3-mediaqueries/
   - video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
+  - https://www.w3schools.com/css/css_rwd_intro.asp
 
   
 
