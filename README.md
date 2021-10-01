@@ -148,6 +148,7 @@ https://www.specialist.ru/dictionary/definition/html
   - https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/
   - https://bradfrost.github.io/this-is-responsive/index.html
   - https://responsivedesign.is/
+  - https://html5book.ru/css3-mediazaprosy/
   - book Ethan Marcotte - RESPONSIVE WEB DESIGN
 
   
