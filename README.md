@@ -146,6 +146,9 @@ https://www.specialist.ru/dictionary/definition/html
   - video Learn CSS Media Queries by Building 3 Projects - https://www.youtube.com/watch?v=aook54SsfhY
   - so so - https://www.w3schools.com/css/css_rwd_intro.asp
   - https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/
+  - https://bradfrost.github.io/this-is-responsive/index.html
+  - https://responsivedesign.is/
+  - book Ethan Marcotte - RESPONSIVE WEB DESIGN
 
   
 
