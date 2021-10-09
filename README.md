@@ -168,6 +168,8 @@ https://www.specialist.ru/dictionary/definition/html
 
 - *4.2 Javascript - Learn DOM Manipulation*
 
+  - Spec https://dom.spec.whatwg.org/
+
   - DOM API https://learn.javascript.ru/document
 
   - DOM events https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/dom-events
