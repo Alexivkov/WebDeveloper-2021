@@ -172,6 +172,8 @@ https://www.specialist.ru/dictionary/definition/html
 
   - DOM API https://learn.javascript.ru/document
 
+  - DOM events https://learn.javascript.ru/events
+
   - DOM events https://github.com/rolling-scopes-school/tasks/tree/master/stage0/modules/dom-events
 
   - for beginners - https://www.w3schools.com/js/js_htmldom.asp
