@@ -228,7 +228,7 @@ https://www.specialist.ru/dictionary/definition/html
 
 - *8.1 Webpack
 
-
+  - Vladilen https://www.youtube.com/watch?v=eSaF8NXeNsA
 
 ### MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
