@@ -222,6 +222,9 @@ https://www.specialist.ru/dictionary/definition/html
 
   - basics https://sass-scss.ru/guide/
 
+### 8 Webpack
+
+
 
 ### MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
