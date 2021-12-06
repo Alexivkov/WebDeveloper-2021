@@ -236,6 +236,7 @@ https://www.specialist.ru/dictionary/definition/html
 - *8.1 Webpack
 
   - Vladilen https://www.youtube.com/watch?v=eSaF8NXeNsA
+  - rsschool Webpack + TS https://www.youtube.com/watch?v=bozzyi8Tok0
 
 ### MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
