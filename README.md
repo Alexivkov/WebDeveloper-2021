@@ -42,6 +42,8 @@ original source - https://roadmap.sh/frontend (thanks <kamranahmed.se@gmail.com>
    - https://www.youtube.com/watch?v=RlccXUx4LVw
  
    - книга (только на английском) Stephen Ludin & Javier Garza Learning HTTP/2: A Practical Guide for Beginners
+
+   - link from RSSchool https://www.youtube.com/watch?v=iYM2zFP3Zn0
  
  - *1.3. How Browser work*
  
