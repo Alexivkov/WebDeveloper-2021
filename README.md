@@ -240,6 +240,13 @@ https://www.specialist.ru/dictionary/definition/html
   - Vladilen https://www.youtube.com/watch?v=eSaF8NXeNsA
   - rsschool Webpack + TS https://www.youtube.com/watch?v=bozzyi8Tok0
 
+### 9.React
+
+-  *9.1 React Router v6
+
+  - https://reactrouter.com/docs/en/v6/getting-started/tutorial
+  - Basic routing React App https://www.youtube.com/watch?v=0auS9DNTmzE
+
 ### MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
 
