@@ -247,6 +247,10 @@ https://www.specialist.ru/dictionary/definition/html
   - https://reactrouter.com/docs/en/v6/getting-started/tutorial
   - Basic routing React App https://www.youtube.com/watch?v=0auS9DNTmzE
 
+### 10.Tests
+
+-  *10.1 Если тестируете компонент, который содержит Router то в тесте при рендере компонент нужно обернуть в <StaticRouter>, <MemoryRouter>, or <BrowserRouter>
+
 ### MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
 
