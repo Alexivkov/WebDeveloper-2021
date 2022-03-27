@@ -249,7 +249,7 @@ https://www.specialist.ru/dictionary/definition/html
 
 ### 10.Tests
 
--  *10.1 Если тестируете компонент, который содержит Router то в тесте при рендере компонент нужно обернуть в <StaticRouter>, <MemoryRouter>, or <BrowserRouter>
+-  *10.1 Если тестируете компонент, который содержит Router то в тесте при рендере компонент нужно обернуть в StaticRouter, MemoryRouter, or BrowserRouter<>
 
 ### MUST HAVE:
 DevTools https://developer.chrome.com/docs/devtools/
