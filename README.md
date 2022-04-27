@@ -44,6 +44,17 @@ original source - https://roadmap.sh/frontend (thanks <kamranahmed.se@gmail.com>
    - книга (только на английском) Stephen Ludin & Javier Garza Learning HTTP/2: A Practical Guide for Beginners
 
    - link from RSSchool https://www.youtube.com/watch?v=iYM2zFP3Zn0
+   
+   RSschool links:
+   
+   - https://web.dev/performance-http2/
+   
+   - https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+   
+   - https://developer.mozilla.org/en-US/docs/Web/HTTP
+   
+   - https://www.cloudflare.com/learning/ssl/why-is-http-not-secure/#:~:text=HTTPS%20is%20HTTP%20with%20encryption,uses%20HTTPS%20has%20https%3A%2F%2F.
+ 
  
  - *1.3. How Browser work*
  
